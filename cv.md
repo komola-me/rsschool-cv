@@ -41,29 +41,46 @@ print(figlet.renderText(inp))
 ## Education
 
 **Westminster International University in Tashkent**
-  Bachelor's degree, Business Information Systems 
+
+Bachelor's degree, Business Information Systems 
+
 
 **Udacity**
-  Front-End Development (in process)
+
+Front-End Development (in process)
+
 
 **RSSchool**
-  Javascript Front-end Stage0 (in process)
+
+Javascript Front-end Stage0 (in process)
+
 
 **Edx**
-  CS50X (in process)
-  CS50P (in process)
+
+CS50X (in process)
+
+CS50P (in process)
+
 
 ## Experience
 
 **Coursera Global Translator Community**
-  Volunteer Uzbek language translator
+
+Volunteer Uzbek language translator
+
 **Startup**
-  Translator & Content Manager
+
+Translator & Content Manager
 
 
 ## Languages
-  **Uzbek** (Native)
-  **English** (IELTS 6.5)
-  **Russian** 
-  **Arabic** 
-  **Italian** 
+
+**Uzbek** (Native)
+
+**English** (IELTS 6.5)
+
+**Russian** (Good understanding and limited speaking skills)
+
+**Arabic** (Elementary)
+
+**Italian** (Elementary)
