@@ -4,13 +4,11 @@
 - **Phone number:** +998908082624
 - **Telegram:** @backslash_8
 - **Instagram:** @komola_2807
-- **Email:** komolaziya28@gmail.com
-
+- **Email:** komolaziya28@gmail.com  
 ___
 
 ## About
-A girl who is striving to become a Full Stack Developer. Curiosity driven learner whose interests not only limited to coding, but also cognitive psychology, medicine, languages, nature. A freelance translator.
-
+A girl who is striving to become a Full Stack Developer. Curiosity driven learner whose interests not only limited to coding, but also cognitive psychology, medicine, languages, nature. A freelance translator.  
 ___
 
 ## Skills
@@ -20,8 +18,7 @@ ___
 - C
 - SQL
 - Java
-- Figma
-
+- Figma  
 ___
 
 ## Code example
@@ -61,8 +58,7 @@ Javascript Front-end Stage0 (in process)
 
 **Edx**  
 CS50X (in process)  
-CS50P (in process)
-
+CS50P (in process)  
 ___
 
 ## Experience
@@ -71,8 +67,7 @@ ___
 Volunteer Uzbek language translator
 
 **Startup**  
-Translator & Content Manager
-
+Translator & Content Manager  
 ___
 
 ## Languages
