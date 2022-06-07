@@ -5,10 +5,12 @@
 - **Telegram:** @backslash_8
 - **Instagram:** @komola_2807
 - **Email:** komolaziya28@gmail.com
+
 ___
 
 ## About
 A girl who is striving to become a Full Stack Developer. Curiosity driven learner whose interests not only limited to coding, but also cognitive psychology, medicine, languages, nature. A freelance translator.
+
 ___
 
 ## Skills
@@ -19,6 +21,7 @@ ___
 - SQL
 - Java
 - Figma
+
 ___
 
 ## Code example
@@ -59,6 +62,7 @@ Javascript Front-end Stage0 (in process)
 **Edx**  
 CS50X (in process)  
 CS50P (in process)
+
 ___
 
 ## Experience
@@ -68,6 +72,7 @@ Volunteer Uzbek language translator
 
 **Startup**  
 Translator & Content Manager
+
 ___
 
 ## Languages
