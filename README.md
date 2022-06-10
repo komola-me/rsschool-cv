@@ -1,1 +1,1 @@
-https://komola-me.github.io/rsschool-cv/cv
+https://komola-me.github.io/rsschool-cv/
